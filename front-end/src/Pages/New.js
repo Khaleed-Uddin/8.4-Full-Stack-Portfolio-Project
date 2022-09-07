@@ -1,7 +1,9 @@
-import React from 'react'
+import NewFood from "../Components/NewFood"
 
 export default function New() {
   return (
-    <div>New</div>
+    <div className="New">
+      <NewFood/>
+    </div>
   )
 }

@@ -1,7 +1,9 @@
-import React from 'react'
+import EditFood from "../Components/EditFood"
 
 export default function Edit() {
   return (
-    <div>Edit</div>
+    <div className="Edit">
+      <EditFood/>
+    </div>
   )
 }

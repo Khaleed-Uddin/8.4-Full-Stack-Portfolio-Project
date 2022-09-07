@@ -1,7 +1,10 @@
-import React from 'react'
+import Foods from "../Components/Foods"
 
 export default function Index() {
   return (
-    <div>Index</div>
+    <div className="Index">
+      <h2>List of Foods</h2>
+      <Foods/>
+    </div>
   )
 }

@@ -1,7 +1,9 @@
-import React from 'react'
+import FoodDetails from "../Components/FoodDetails"
 
 export default function Show() {
   return (
-    <div>Show</div>
+    <div className="Show">
+      <FoodDetails/>
+    </div>
   )
 }

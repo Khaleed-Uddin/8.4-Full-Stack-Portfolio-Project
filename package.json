@@ -1,0 +1,19 @@
+{
+  "name": "8.4-full-stack-portfolio-project",
+  "version": "1.0.0",
+  "description": "This project is designed to test all of the skills you've learned so far. By the end of this project, you should have a portfolio-ready project you can share on your resume as well as with potential employers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaleed-Uddin/8.4-Full-Stack-Portfolio-Project.git"
+  },
+  "author": "Khaleed Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khaleed-Uddin/8.4-Full-Stack-Portfolio-Project/issues"
+  },
+  "homepage": "https://github.com/Khaleed-Uddin/8.4-Full-Stack-Portfolio-Project#readme"
+}

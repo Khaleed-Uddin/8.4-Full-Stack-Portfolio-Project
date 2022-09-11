@@ -84,7 +84,7 @@ export default function EditFood() {
       </article>
 
 
-      <h1>Input the values you see here 😭</h1>
+      <h1>The values above represent 1 serving size. Input the values you see fit.</h1>
       <form onSubmit={handleSubmit}>
 
         <label htmlFor='name'>Food Name:</label>

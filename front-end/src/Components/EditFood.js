@@ -42,8 +42,8 @@ export default function EditFood() {
       .catch(error => console.error(error))
   }, [id]);
 
-  const updateFood = () => {
-    axios.put(`${API}/foods/${id}`, foods)
+  const updateFood = (updatedFood) => {
+    axios.put(`${API}/foods/${id}`, updatedFood)
       .then(response => {
         setFoods(response.data)
         navigate(`/foods/${id}`)

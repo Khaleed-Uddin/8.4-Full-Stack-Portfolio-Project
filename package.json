@@ -4,6 +4,7 @@
   "description": "This project is designed to test all of the skills you've learned so far. By the end of this project, you should have a portfolio-ready project you can share on your resume as well as with potential employers.",
   "main": "server.js",
   "scripts": {
+    "start": "cd back-end && npm i && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
